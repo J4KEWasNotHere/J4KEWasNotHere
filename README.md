@@ -40,7 +40,7 @@ I'm a passionate developer focused on creating high-quality utility modules and 
 
 | Repository | Language | Description |
 |-----------|----------|-------------|
-| [My-Roblox-Modules](https://github.com/J4KEWasNotHere/My-Roblox-Modules) | Lua | Collection of production-ready modules |
+| [My-Roblox-Modules](https://github.com/J4KEWasNotHere/My-Roblox-Modules) | (Roblox) Lua/Luau | Collection of production-ready modules |
 
 ---
 
