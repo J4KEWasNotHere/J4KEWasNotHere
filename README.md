@@ -1,6 +1,6 @@
 # 👋 Welcome to J4KEWasNotHere's GitHub
 
-> Building elegant, reusable modules and solutions for game development usually with **Lua**, **Python**.
+> Building elegant, reusable modules and solutions for game development usually with **Lua**, **Python** and sometimes GDScript.
 
 ---
 
