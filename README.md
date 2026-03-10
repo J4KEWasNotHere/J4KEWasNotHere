@@ -15,7 +15,7 @@ I'm a passionate developer focused on creating high-quality utility modules and 
 ## 🛠️ Technical Stack
 
 ### Languages & Frameworks
-- **Lua** - Primary focus for game development and scripting
+- **Lua**(u) - Primary focus for game development and scripting
 - **Python** - Utility automation and backend solutions
 - **GDScript** - Godot Engine development
 
@@ -46,7 +46,7 @@ I'm a passionate developer focused on creating high-quality utility modules and 
 
 ## 📈 Stats
 
-- **Primary Languages:** Lua, Python, GDScript
+- **Primary Languages:** Lua/Luau, Python, GDScript
 - **Focus Areas:** Game Development, Utility Modules, Developer Tools
 - **License Preference:** MIT (Community-friendly)
 
