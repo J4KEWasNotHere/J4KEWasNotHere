@@ -25,6 +25,12 @@ I'm a passionate developer focused on creating high-quality utility modules and 
 - Game development tools and utilities
 - Performance optimization
 
+### Other Skills
+- 3d Modelling
+- Intermediate UI Designer
+- Intermediate Animator
+- Competent Builder
+
 ---
 
 ## 💡 Core Values
