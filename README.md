@@ -12,10 +12,10 @@ I'm a passionate developer focused on creating high-quality utility modules and 
 
 ### Social Links
 
-![Static Badge](https://img.shields.io/badge/Roblox_Portfolio-blue?logo=robloxstudio&link=https%3A%2F%2Fdevforum.roblox.com%2Ft%2Fcoms-closed-trial-catstronomicals-portfolio-scripter%2F3852088)
-![Static Badge](https://img.shields.io/badge/Roblox_Profile-%23808080?logo=roblox&link=https%3A%2F%2Fwww.roblox.com%2Fusers%2F954612182%2Fprofile)
-![Static Badge](https://img.shields.io/badge/Itchi.io-grey?logo=itchdotio&link=https%3A%2F%2Fp4to.itch.io)
-![Static Badge](https://img.shields.io/badge/Youtube-red?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2F%40JakeyRoundHead)
+[![Static](https://img.shields.io/badge/Roblox_Portfolio-blue?logo=robloxstudio)](https://devforum.roblox.com/t/coms-closed-trial-catstronomicals-portfolio-scripter/3852088)
+[![Static](https://img.shields.io/badge/Roblox_Profile-%23808080?logo=roblox)](https://www.roblox.com/users/954612182/profile)
+[![Static](https://img.shields.io/badge/Itchi.io-grey?logo=itchdotio)](https://p4to.itch.io)
+[![Static](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@JakeyRoundHead)
 
 ---
 
