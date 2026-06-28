@@ -1,79 +1,58 @@
-# 👋 Welcome to J4KEWasNotHere's GitHub
+# JakeyRoundHead's GitHub
 
-> Building elegant, reusable modules and solutions for game development usually with **Lua**, **Python** and sometimes GDScript.
+> Building clean, reusable modules and tools for game development — mainly with **Lua**, **Python**, and **GDScript**.
 
 ---
 
 ## 🎮 About Me
 
-I'm a passionate developer focused on creating high-quality utility modules and tools for modern game development. With expertise spanning multiple scripting languages, I specialize in building clean, maintainable code that solves real problems in game development workflows.
+I'm a passionate game developer focused on creating high-quality, production-ready utility modules and tools. I love writing clean, well-documented code that solves real problems and makes development smoother for myself and others.
 
 <div align="center">
 
-### Social Links
+### Connect With Me
 
-[![Static](https://img.shields.io/badge/Roblox_Portfolio-blue?logo=robloxstudio)](https://devforum.roblox.com/t/coms-closed-trial-catstronomicals-portfolio-scripter/3852088)
-[![Static](https://img.shields.io/badge/Roblox_Profile-%23808080?logo=roblox)](https://www.roblox.com/users/954612182/profile)
-ㅤ[![Static](https://img.shields.io/badge/Itchi.io-grey?logo=itchdotio)](https://p4to.itch.io)
-ㅤ[![Static](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/@JakeyRoundHead)
-
----
+[![Roblox Portfolio](https://img.shields.io/badge/Roblox_Portfolio-blue?logo=robloxstudio)](https://devforum.roblox.com/t/coms-closed-trial-catstronomicals-portfolio-scripter/3852088)
+[![Roblox Profile](https://img.shields.io/badge/Roblox_Profile-%23808080?logo=roblox)](https://www.roblox.com/users/954612182/profile)
+[![Itch.io](https://img.shields.io/badge/Itch.io-grey?logo=itchdotio)](https://p4to.itch.io)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@JakeyRoundHead)
 
 </div>
 
-## 🛠️ Technical Stack
+---
 
-### Languages & Frameworks
-- **Lua**(u) - Primary focus for game development and scripting
-- **Python** - Utility automation and backend solutions
-- **GDScript** - Godot Engine development
+## 🛠️ Tech & Skills
 
-### Key Interests
-- Module architecture and reusable components
-- Clean code practices and design patterns
-- Game development tools and utilities
-- Performance optimization
+**Languages**  
+- **Lua / Luau** - Primary focus (Roblox & more)  
+- **Python** - Tools, automation & utilities  
+- **GDScript** - Godot Engine projects  
 
-### Other Skills
-- 3d Modelling
-- Intermediate UI Designer
-- Intermediate Animator
-- Competent Builder
+**Other Strengths**  
+- 3D Modelling  
+- UI Design  
+- Animation  
+- Building & Prototyping  
 
 ---
 
 ## 💡 Core Values
 
-✨ **Quality** - Well-structured, maintainable code  
-🔄 **Reusability** - DRY principles in action  
-📖 **Documentation** - Clear guides and examples  
-🤝 **Community** - Open source and collaborative  
-
----
-
-## 📊 Repository Highlights
-
-| Repository | Language | Description |
-|-----------|----------|-------------|
-| [My-Roblox-Modules](https://github.com/J4KEWasNotHere/My-Roblox-Modules) | (Roblox) Lua/Luau | Collection of production-ready modules |
-
----
-
-## 📈 Stats
-
-- **Primary Languages:** Lua/Luau, Python, GDScript
-- **Focus Areas:** Game Development, Utility Modules, Developer Tools
-- **License Preference:** MIT (Community-friendly)
+- **Quality** - Clean, maintainable, and well-structured code  
+- **Reusability** - DRY, modular, and easy to integrate  
+- **Documentation** - Clear examples and guides  
+- **Community** - Open-source and collaborative  
 
 ---
 
 ## 📄 License
 
-Most of my projects are licensed under the **MIT License** - feel free to use, modify, and distribute with attribution.
+Most of my projects are licensed under the **MIT License** — feel free to use and modify them (with attribution appreciated).
 
 ---
 
-### ⭐ **Support**
-If you find my modules helpful, consider starring the repos!
+### ⭐ Support
+
+If you find my work helpful, consider starring the repositories!  
 
 *Happy coding! 🎮✨*
