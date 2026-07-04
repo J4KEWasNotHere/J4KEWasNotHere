@@ -1,8 +1,9 @@
 <div align="center">
 
-  **JakeyRoundHead**
+  # Jake
   
-  <img src="https://avatars.githubusercontent.com/u/112113737?v=4&size=256" alt="Profile Picture" width="15%" />
+  <img src="https://avatars.githubusercontent.com/u/112113737?v=4&size=256" alt="Profile Picture" width="15%" /> <img width="60%" alt="KalaranBanner" src="https://github.com/user-attachments/assets/aa8bbfb8-9957-4dc9-81d5-cc164e1fdf8b" />
+
 
   
 </div>
