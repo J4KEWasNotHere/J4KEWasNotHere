@@ -1,4 +1,6 @@
 <div align="center">
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=900&duration=1000&pause=1500&color=FFFFFF&background=012456&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+jake;I+love+programming...;designing...;and+modelling.;I'm+making+a+game+studio+called+Kalaran;focusing+on+adaptation+and+innovation.;I+loved+creating+experiences;all+the+way+to+2008+when+i+was+8+yo;from+redstone..;little+big+planet+3..;trailmakers..;dreams+(ps4)..;and+when+i+turned+12..;i+got+an+old+overheating+macbook%2C;and+immediately+started+my+journey;I+want+to+become+a+mechanical+engineer..;but+its+going+to+be+a+rough+road;but+i+like+mechatronics+more;because+it+fits+my+desires;but+would+it+be+profitable+for;a+comfortable+living%3F;uh;ok+yeah+this+is+getting+to+long..;sorry+lol..;thanks+for+reading+tho+%3A);%5BCONNECTION+LOST%5D;%3F;%5BNO+CONNECTION%5D;+%3F;%5BNO+CONNECTION%5D;+...;%5BRESTARING%5D;%5BRESTART+SUCCESSFUL%5D" alt="Typing SVG" /></a>
   
   <img src="https://avatars.githubusercontent.com/u/112113737?v=4&size=256" alt="Profile Picture" width="15%" /> <img width="60%" alt="KalaranBanner" src="https://github.com/user-attachments/assets/aa8bbfb8-9957-4dc9-81d5-cc164e1fdf8b" />
   
