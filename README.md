@@ -3,8 +3,9 @@
 
   ___
 
-  <img src="https://github-readme-stats.vercel.app/api?username=J4KEWasNotHere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4KEWasNotHere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=J4KEWasNotHere&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4KEWasNotHere&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="150" />
+
+<img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=J4KEWasNotHere&theme=dark" alt="Codewars" width="60%" />
 
 </div>
 
