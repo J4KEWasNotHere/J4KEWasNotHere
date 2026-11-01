@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=J4KEWasNotHere&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" height="130" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4KEWasNotHere&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="130" />
 <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=J4KEWasNotHere&theme=dark" alt="Codewars" height="130" />
 
 </div>
